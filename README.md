@@ -11,8 +11,9 @@ The `simple-interest.sh` script prompts the user to enter the principal amount, 
 To run the script, you need a bash-compatible shell.
 
 1. Clone the repository:
-   ```sh
+```sh
    git clone https://github.com/BrunixD/simple-interest-calculator.git
+```
 2. Navigate to the directory:
 
 ```sh
